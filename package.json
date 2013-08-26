@@ -1,0 +1,32 @@
+{
+  "name": "axes",
+  "version": "0.0.0",
+  "description": "An alternative implementation of d3's quantitative scales",
+  "main": "axes.js",
+  "dependencies": {
+    "emitter-component": "~1.0.1",
+    "object-keys": "~0.4.0"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/axes.git"
+  },
+  "keywords": [
+    "axes",
+    "scales",
+    "quantitative",
+    "map",
+    "axis",
+    "d3",
+    "translate"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
